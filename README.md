@@ -6,3 +6,6 @@
 설치: Beautiful soup
 
 언어:python
+
+[파일설명]
+craw.py: 구글트렌드 순위 웹크롤링
