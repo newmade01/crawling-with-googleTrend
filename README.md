@@ -4,3 +4,5 @@
 환경: 구름IDE
 
 설치: Beautiful soup
+
+언어:python
